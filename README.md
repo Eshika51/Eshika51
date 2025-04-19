@@ -1,4 +1,4 @@
-<img src="
+<img src="https://github.com/Eshika51/Eshika51/blob/main/Github_Banner.png" width="100%" height="auto">
 <h1 align="center">Hi 👋, I'm Eshika</h1>
 <h3 align="center">A passionate Java Backend Developer from India</h3>
 
